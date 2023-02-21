@@ -1,0 +1,3 @@
+[submodule "src/xv11_lidar_python"]
+	path = src/xv11_lidar_python
+	url = git@github.com:MorrieG/xv11_lidar_python.git
